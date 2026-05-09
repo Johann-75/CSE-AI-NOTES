@@ -1,27 +1,27 @@
-# B-Tech Semester Notes
+# B.Tech Semester Notes
 
-### 3rd Semester
-- COMPUTER ORGANIZATION & ARCHITECTURE (COA) (CSE_2151) 
-- DATA STRUCTURES (DS) (CSE_2122)
-- DIGITAL SYSTEM DESIGN (DSD) (CSE_2123)
-- OBJECT ORIENTED PROGRAMMING (OOP) (CSE_2124)
+## 3rd Semester
+- **Computer Organization & Architecture (COA)** — `CSE_2151`
+- **Data Structures (DS)** — `CSE_2122`
+- **Digital System Design (DSD)** — `CSE_2123`
+- **Object Oriented Programming (OOP)** — `CSE_2124`
 
-### 4th Semester
-- DESIGN AND ANALYSIS OF ALGORITHMS (DAA) (CSE_2222)
-- DATABASE SYSTEMS (DBMS) (CSE_2224)
-- EMBEDDED SYSTEMS (ES) (CSE_2223)
+## 4th Semester
+- **Design and Analysis of Algorithms (DAA)** — `CSE_2222`
+- **Database Systems (DBMS)** — `CSE_2224`
+- **Embedded Systems (ES)** — `CSE_2223`
 
-### 5th Semester
-- ARTIFICIAL INTELLIGENCE (AI) (CSE_3128)
-- FUNDAMENTALS OF MACHINE LEARNING (FML) (CSE_3127)
-- NATURAL LANGUAGE PROCESSING (NLP) (CSE_3126)
-- PRINCIPILES OF COMPUTER VISION (PCV) (CSE_3125)
+## 5th Semester
+- **Artificial Intelligence (AI)** — `CSE_3128`
+- **Fundamentals of Machine Learning (FML)** — `CSE_3127`
+- **Natural Language Processing (NLP)** — `CSE_3126`
+- **Principles of Computer Vision (PCV)** — `CSE_3125`
 
-### 6th Semester
-- ENGINEERING ECONOMICS AND FINANCIAL MANAGEMENT (EEFM) (HUM_3021)
-- NEURAL NETWORKS AND DEEP LEARNING (NNDL) (CSE_3223)
-- PATTERN RECOGNITION (PR) (CSE_3224)
-- GERMAN (OPEN ELECTIVE)
+## 6th Semester
+- **Engineering Economics and Financial Management (EEFM)** — `HUM_3021`
+- **Neural Networks and Deep Learning (NNDL)** — `CSE_3223`
+- **Pattern Recognition (PR)** — `CSE_3224`
+- **German** — Open Elective
 
 ---
 
@@ -35,8 +35,8 @@ The notes are provided in PDF format and can be viewed directly through GitHub P
 
 ## Access Notes Online
 
-GitHub Pages site:
-[Open Notes Website](https://johann-75.github.io/BTECH-SEMESTER-NOTES/)
+🔗 GitHub Pages Website:  
+https://johann-75.github.io/BTECH-SEMESTER-NOTES/
 
 ---
 
