@@ -36,7 +36,8 @@ The notes are provided in PDF format and can be viewed directly through GitHub P
 ## Access Notes Online
 
 🔗 GitHub Pages Website:  
-https://johann-75.github.io/BTECH-SEMESTER-NOTES/
+[https://johann-75.github.io/CSE-AI-NOTES/
+](https://johann-75.github.io/CSE-AI-NOTES/)
 
 ---
 
